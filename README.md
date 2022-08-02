@@ -7,6 +7,14 @@
 <br>main page :- index.html
 
 #### sample static webpage :- 
+(just front-end design with html,css and js containing main page and admin dashboard)
+<br>
 https://tinkerness.github.io/dbms-railwaysystem/
 #### dynamic webpage :-
-http://railwaydbms.epizy.com/
+1. https://tinkerness.github.io/railway-dbms/
+2. http://railwaydbms.epizy.com/
+
+#### templates used :-
+1. <a href="https://technext.github.io/waterboat/index.html">WaterBoat – Free Bootstrap 4 HTML5 Responsive Transportation Website Template</a>
+2. <a href="https://technext.github.io/admin-one/index.html">Admin One – Free Tailwind CSS HTML5 Admin Dashboard Template</a>
+<!--3. https://github.com/adityarverma/railway-management-system>
